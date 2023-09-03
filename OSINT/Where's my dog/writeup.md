@@ -33,7 +33,7 @@ Possible approaches:
  ![Discord](../../Images/discord.png)
  
  - Find fake flag
-  ![Fake Flag](../../Images/fakeflag.png)
+  ![Fake Flag](../../Images/fakeFlag.png)
 
  - Get rickrolled
 
